@@ -1,0 +1,14 @@
+C:\Users\vinib\OneDrive\Desktop\adaForca\obj\Debug\net7.0\adaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinib\OneDrive\Desktop\adaForca\obj\Debug\net7.0\adaForca.AssemblyInfoInputs.cache
+C:\Users\vinib\OneDrive\Desktop\adaForca\obj\Debug\net7.0\adaForca.AssemblyInfo.cs
+C:\Users\vinib\OneDrive\Desktop\adaForca\obj\Debug\net7.0\adaForca.csproj.CoreCompileInputs.cache
+C:\Users\vinib\OneDrive\Desktop\adaForca\bin\Debug\net7.0\adaForca.exe
+C:\Users\vinib\OneDrive\Desktop\adaForca\bin\Debug\net7.0\adaForca.deps.json
+C:\Users\vinib\OneDrive\Desktop\adaForca\bin\Debug\net7.0\adaForca.runtimeconfig.json
+C:\Users\vinib\OneDrive\Desktop\adaForca\bin\Debug\net7.0\adaForca.dll
+C:\Users\vinib\OneDrive\Desktop\adaForca\bin\Debug\net7.0\adaForca.pdb
+C:\Users\vinib\OneDrive\Desktop\adaForca\obj\Debug\net7.0\adaForca.dll
+C:\Users\vinib\OneDrive\Desktop\adaForca\obj\Debug\net7.0\refint\adaForca.dll
+C:\Users\vinib\OneDrive\Desktop\adaForca\obj\Debug\net7.0\adaForca.pdb
+C:\Users\vinib\OneDrive\Desktop\adaForca\obj\Debug\net7.0\adaForca.genruntimeconfig.cache
+C:\Users\vinib\OneDrive\Desktop\adaForca\obj\Debug\net7.0\ref\adaForca.dll
